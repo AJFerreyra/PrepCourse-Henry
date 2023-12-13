@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba
+Este proyecto es una prueba de como generar un repositorio en la nube y clonarlo en mi computador desde github
+
+
